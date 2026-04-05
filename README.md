@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Noman
 
-<!--
-**md-noman-research/md-noman-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computational Agronomist | Researcher @ NSTU**
 
-Here are some ideas to get you started:
+Refining the future of sustainable agriculture through data-driven stochastic modeling and stress physiology research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧬 Research Interests
+*   **Stochastic Yield Modeling**: Evaluating climate-risk profiles for coastal cotton genotypes.
+*   **Stress Physiology**: Investigating ionic loading and metabolic damage in *Gossypium* species.
+*   **Digital twin Frameworks**: Building mechanistic simulation engines for deltaic crop adaptability.
+
+### 🛠 Tech Stack
+*   **Languages**: Python (NumPy, Pandas, Scipy, Statsmodels), R.
+*   **Methodologies**: WLS, Gamma GLM, Non-linear Least Squares (NLS), Monte Carlo Simulations.
+*   **Domain**: Computational Agronomy, Salt Stress Physiology, Crop Resilience.
+
+### 📊 Current Projects
+*   **[Cotton Yield Resilience Simulation](https://github.com/md-noman-research/cotton-yield-simulation)**: A 1,000-iteration Monte Carlo engine for *Suvin* vs *Muslin* genotypes in Noakhali, Bangladesh.
+
+---
+
+### 📫 Connect with me
+*   **Affiliation**: Noakhali Science and Technology University (NSTU)
+*   **Email**: md.noman.research@gmail.com
+*   **Location**: Noakhali, Bangladesh
