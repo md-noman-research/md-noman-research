@@ -28,7 +28,15 @@ My research focuses on the intersection of **Crop Genetics**, **Stress Physiolog
 
 ---
 
-### 🎓 Affiliation & Contact
+### 🎓 Seeking Opportunities
+I am actively seeking **PhD/Masters research opportunities** in Computational Agronomy, Stress Physiology, or Crop Resilience Modeling. I am interested in contributing to labs that bridge metabolic damage responses with large-scale agricultural sustainability. 
+
+- 📨 **Open to Collaboration**: I am always excited to discuss research ideas, data sharing, or potential cross-disciplinary simulations.
+- 📂 **Academic Credentials**: Research Lead at Noakhali Science and Technology University (NSTU).
+
+---
+
+### 📫 Connect with me
 - 🏢 **Researcher** at [Noakhali Science and Technology University (NSTU)](http://nstu.edu.bd/)
 - 📧 **Email**: [md.noman.research@gmail.com](mailto:md.noman.research@gmail.com)
 - 📍 **Location**: Noakhali, Bangladesh
